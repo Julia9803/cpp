@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/12/20 20:24:52。
+     1>项目“G:\win10专用\VS\Q118\Q118\Q118.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\win10专用\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>g:\win10专用\vs\q118\q118\main.cpp(71): warning C4715: “selectHero”: 不是所有的控件路径都返回值
+       Link:
+         G:\win10专用\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\win10专用\VS\Q118\Debug\Q118.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\win10专用\VS\Q118\Debug\Q118.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\win10专用\VS\Q118\Debug\Q118.lib" /MACHINE:X86 Debug\Main.obj
+         Q118.vcxproj -> G:\win10专用\VS\Q118\Debug\Q118.exe
+     1>已完成生成项目“G:\win10专用\VS\Q118\Q118\Q118.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.41
